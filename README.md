@@ -11,7 +11,7 @@ The Princeton ModelNet40 contains 3D models in the form of .off files.This imple
 * It is then voxelised to reduce dimensionality. 
 * The voxelised array is fed as input to the model defined in train.py.
 * Set the path to save the model in  train.py.
-* Use test.py to visualise misclassified results.
+* Use test.py to visualise misclassified examples.
 
 **Requirements**
 * Tensorflow 1.x
